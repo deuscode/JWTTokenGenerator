@@ -1,0 +1,10 @@
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\bin\Debug\TokenGen.dll
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\bin\Debug\TokenGen.pdb
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\bin\Debug\JWT.dll
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\bin\Debug\JWT.xml
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\obj\Debug\TokenGen.csprojResolveAssemblyReference.cache
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\obj\Debug\TokenGen.csproj.CoreCompileInputs.cache
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\obj\Debug\TokenGen.dll
+C:\Users\PETERK\source\repos\TokenGen\TokenGen\obj\Debug\TokenGen.pdb
